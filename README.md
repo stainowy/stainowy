@@ -22,7 +22,7 @@ I am a young programmer, coordinator of many projects and entrepreneur. I work o
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/stainowy)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1168212040737890404)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@stainowy)
-<!-- [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/c/yourchannel) -->
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@stainowy)
 
 
 
