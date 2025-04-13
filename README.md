@@ -23,6 +23,7 @@ I am a young programmer, coordinator of many projects and entrepreneur. I work o
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1168212040737890404)
 [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://tiktok.com/@stainowy)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@stainowy)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/stainowy)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stainowy&color=gray)
 
