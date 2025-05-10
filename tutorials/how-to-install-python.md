@@ -14,3 +14,5 @@ python --version
 
 > Thanks for using this guide!  
 > If you appreciate my work, feel free to leave a STAR!
+> 
+> **~Stainowy**
