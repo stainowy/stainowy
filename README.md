@@ -17,5 +17,4 @@ I am a young programmer, coordinator of many projects and entrepreneur. I work o
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stainowy&color=gray)
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=gray&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/stainowy" alt="Profile Stars"></a>
 
