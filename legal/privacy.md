@@ -1,4 +1,4 @@
-LAST UPDATE: 11.09.2025  
+LAST_UPDATE: 11.09.2025  
 ENTERED: 12.09.2025
 
 ### <br> Definitions <br><br>
