@@ -10,6 +10,9 @@ I am a young programmer, coordinator of many projects and entrepreneur. I work o
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 
 [![Website](https://img.shields.io/badge/-Website-616662?style=flat&logo=google-chrome&logoColor=white)](https://stainowy.pages.dev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1168212040737890404)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://stainowy.pages.dev/discord)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://stainowy.pages.dev/instagram)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://stainowy.pages.dev/twitter)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=stainowy&color=gray)
