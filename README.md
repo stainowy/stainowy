@@ -9,7 +9,7 @@
   <br />
 
   <p align="center">
-    <sub>D E V E L O P E R &nbsp; | &nbsp; D E S I G N E R &nbsp; | &nbsp; P R O J E C T &nbsp; C O O R D I N A T O R</sub><br>
+    <sub>F R O N T E N D &nbsp; D E V E L O P E R &nbsp; | &nbsp; P R O J E C T &nbsp; C O O R D I N A T O R</sub><br>
     Since 2022, crafting digital experiences using:
   </p>
 
