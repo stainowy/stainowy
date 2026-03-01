@@ -1,18 +1,42 @@
-# Hi there! 👋
+<a id="readme-top"></a>
 
-I am a young programmer, coordinator of many projects and entrepreneur. I work on many projects. In my free time I play chess :3
+<br />
+<div align="center">
+  <a href="https://stainowy.pages.dev">
+    <img src="https://raw.githubusercontent.com/stainowy/stainowy/main/name.png" alt="Stainowy Logo" width="500" />
+  </a>
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat&logo=lua&logoColor=white)
+  <br />
 
-[![Website](https://img.shields.io/badge/-Website-616662?style=flat&logo=google-chrome&logoColor=white)](https://stainowy.pages.dev)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://stainowy.pages.dev/discord)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://stainowy.pages.dev/instagram)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=flat&logo=x&logoColor=white)](https://stainowy.pages.dev/twitter)
+  <p align="center">
+    <sub>D E V E L O P E R &nbsp; | &nbsp; D E S I G N E R &nbsp; | &nbsp; P R O J E C T &nbsp; C O O R D I N A T O R</sub><br>
+    Since 2022, crafting digital experiences using:
+  </p>
 
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="python"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="22" alt="js"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="22" alt="react"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="22" alt="ts"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="22" alt="nodejs"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="22" alt="css3"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="22" alt="html5"  />
+    <img width="15" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="22" alt="lua" />
+  </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=stainowy&color=gray)
+  <br />
+  <br />
+
+<a href="https://stainowy.pages.dev">
+    <img src="https://img.shields.io/badge/%20GET%20TO%20KNOW%20ME%20-010409?style=for-the-badge&labelColor=ffffff44&color=010409" alt="Get to know me" />
+  </a>
+
+  <br />
+</div>
