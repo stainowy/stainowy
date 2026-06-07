@@ -30,13 +30,4 @@
     <img width="15" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="22" alt="lua" />
   </div>
-
-  <br />
-  <br />
-
-<a href="https://stainowy.pages.dev">
-    <img src="https://img.shields.io/badge/%20GET%20TO%20KNOW%20ME%20-010409?style=for-the-badge&labelColor=ffffff44&color=010409" alt="Get to know me" />
-  </a>
-
-  <br />
 </div>
